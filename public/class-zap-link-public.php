@@ -3,7 +3,7 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       https://mudarisso.com.br
+ * @link       https://zap-link.vercel.app
  * @since      1.0.0
  *
  * @package    Zap_Link
@@ -18,7 +18,7 @@
  *
  * @package    Zap_Link
  * @subpackage Zap_Link/public
- * @author     Paul Pessoa <mudeiisso@gmail.com>
+ * @author     Paul Pessoa <paulmspessoa@gmail.com>
  */
 class Zap_Link_Public {
 

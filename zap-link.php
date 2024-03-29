@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://mudarisso.com.br
+ * @link              https://zap-link.vercel.app
  * @since             1.0.0
  * @package           Zap_Link
  *
@@ -18,7 +18,7 @@
  * Description:       mudar descricao
  * Version:           1.0.0
  * Author:            Paul Pessoa
- * Author URI:        https://mudarisso.com.br/
+ * Author URI:        https://zap-link.vercel.app/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       zap-link

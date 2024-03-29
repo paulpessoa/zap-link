@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       https://mudarisso.com.br
+ * @link       https://zap-link.vercel.app
  * @since      1.0.0
  *
  * @package    Zap_Link

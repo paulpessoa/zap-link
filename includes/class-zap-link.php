@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://mudarisso.com.br
+ * @link       https://zap-link.vercel.app
  * @since      1.0.0
  *
  * @package    Zap_Link
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Zap_Link
  * @subpackage Zap_Link/includes
- * @author     Paul Pessoa <mudeiisso@gmail.com>
+ * @author     Paul Pessoa <paulmspessoa@gmail.com>
  */
 class Zap_Link {
 

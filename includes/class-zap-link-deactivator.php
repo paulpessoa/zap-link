@@ -3,7 +3,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       https://mudarisso.com.br
+ * @link       https://zap-link.vercel.app
  * @since      1.0.0
  *
  * @package    Zap_Link
@@ -18,7 +18,7 @@
  * @since      1.0.0
  * @package    Zap_Link
  * @subpackage Zap_Link/includes
- * @author     Paul Pessoa <mudeiisso@gmail.com>
+ * @author     Paul Pessoa <paulmspessoa@gmail.com>
  */
 class Zap_Link_Deactivator {
 
